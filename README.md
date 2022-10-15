@@ -55,6 +55,7 @@ mvn spring-boot:run
                 "createdOn": "2022-10-13T22:00:00.000+00:00",
                 "modifiedOn": null
             }
+```
 ## How it works
 ```
 After setting up the land and land configuration a task scheduler is run every 10 seconds to check the 
